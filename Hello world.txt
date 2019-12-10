@@ -1,2 +1,3 @@
 print("Hello dear world!");
 print("Hello my dear friend!");
+print("Glad 2 see u");
